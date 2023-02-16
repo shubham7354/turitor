@@ -317,23 +317,13 @@
 }
 .mxp{
     animation-name: bn4;
-    animation-timing-function: ease;
+    animation-timing-function:  ease;
     animation-iteration-count: infinite;
-    animation-duration: 2s;
+    animation-duration: 5s;
+    
 }
 @keyframes bn4{
-    0%{
-        rotate: 45deg;
-    }
-    25%{
-        rotate: 90deg;
-    }
-    50%{
-        rotate: 135deg;
-    }
-    100%{
-        rotate: 180deg;
-    }
+    100%{ transform:rotate(360deg); }
 }
 .bn3{
   margin-left: -50px ;
