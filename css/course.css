@@ -106,6 +106,9 @@
     color: black;
     text-align: center;
     font-weight: bold;
+      border-radius: 5px ;
+   
+     border-bottom: 1px lightgrey solid ;
 }
 /* .dropdown  li a{
     color: black;
