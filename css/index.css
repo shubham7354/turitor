@@ -106,6 +106,7 @@
     color: black;
     text-align: center;
     font-weight: bold;
+     border-bottom: 1px lightgrey solid ;
 }
 /* .dropdown  li a{
     color: black;
