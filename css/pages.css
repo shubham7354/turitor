@@ -105,7 +105,9 @@
     width: 150px;
     color: black;
     text-align: center;
+      border-radius: 5px ;
     font-weight: bold;
+     border-bottom: 1px lightgrey solid ;
 }
 /* .dropdown  li a{
     color: black;
