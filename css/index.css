@@ -162,7 +162,7 @@
     }
    
     .nav-in ul{
-        position: fixed;
+        position: absolute;
         width: 100%;
         height: 100vh;
         background: rgb(83, 141, 141);
